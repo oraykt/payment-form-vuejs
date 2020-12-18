@@ -2,9 +2,15 @@
 
 > A Vue.js project
 
+Hello Dear Visitors, This is a self-improvement repository to get familiar with VueJS in the future. <Br/>
+
+If you're taking a look at here, here is the presentation of Vue.js practice live: <br />
+
+> [https://kt-payment-form.herokuapp.com/](https://kt-payment-form.herokuapp.com/)
+
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
